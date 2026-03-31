@@ -39,5 +39,5 @@ Install the package into your workspace using CL or download and manually put th
 - You're free to compare the result, it'll be a char with the second parameter of the selected option.
 
 ### Version
-1.0.0 - CUI, C User Interface engine (lib)
+1.1.0 - CUI, C User Interface engine (lib)
 Author: Nahum Naranjo
